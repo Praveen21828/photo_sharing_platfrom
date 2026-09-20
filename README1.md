@@ -398,5 +398,6 @@ Previously exposed credentials must be rotated immediately if they were ever use
 - [API reference](backend/API.md)
 - [Database schema notes](backend/SCHEMA.md)
 - [Environment template](.env.example)
-#   p h o t o _ s h a r i n g _ p l a t f r o m  
+#   p h o t o _ s h a r i n g _ p l a t f r o m 
+ 
  
